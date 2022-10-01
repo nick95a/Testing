@@ -1,3 +1,3 @@
 # Testing
 
-All the QA / QC artefacts that I managed to pull together here.
+Все QA / QC артефакты, которые набираются в процессе учебы / работы. 
